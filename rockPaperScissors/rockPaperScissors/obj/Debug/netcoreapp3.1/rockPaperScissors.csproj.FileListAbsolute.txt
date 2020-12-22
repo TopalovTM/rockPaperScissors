@@ -1,0 +1,13 @@
+C:\Users\Dell\GitHub\rockPaperScissors\rockPaperScissors\rockPaperScissors\bin\Debug\netcoreapp3.1\rockPaperScissors.exe
+C:\Users\Dell\GitHub\rockPaperScissors\rockPaperScissors\rockPaperScissors\bin\Debug\netcoreapp3.1\rockPaperScissors.deps.json
+C:\Users\Dell\GitHub\rockPaperScissors\rockPaperScissors\rockPaperScissors\bin\Debug\netcoreapp3.1\rockPaperScissors.runtimeconfig.json
+C:\Users\Dell\GitHub\rockPaperScissors\rockPaperScissors\rockPaperScissors\bin\Debug\netcoreapp3.1\rockPaperScissors.runtimeconfig.dev.json
+C:\Users\Dell\GitHub\rockPaperScissors\rockPaperScissors\rockPaperScissors\bin\Debug\netcoreapp3.1\rockPaperScissors.dll
+C:\Users\Dell\GitHub\rockPaperScissors\rockPaperScissors\rockPaperScissors\bin\Debug\netcoreapp3.1\rockPaperScissors.pdb
+C:\Users\Dell\GitHub\rockPaperScissors\rockPaperScissors\rockPaperScissors\obj\Debug\netcoreapp3.1\rockPaperScissors.csprojAssemblyReference.cache
+C:\Users\Dell\GitHub\rockPaperScissors\rockPaperScissors\rockPaperScissors\obj\Debug\netcoreapp3.1\rockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\Dell\GitHub\rockPaperScissors\rockPaperScissors\rockPaperScissors\obj\Debug\netcoreapp3.1\rockPaperScissors.AssemblyInfo.cs
+C:\Users\Dell\GitHub\rockPaperScissors\rockPaperScissors\rockPaperScissors\obj\Debug\netcoreapp3.1\rockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Dell\GitHub\rockPaperScissors\rockPaperScissors\rockPaperScissors\obj\Debug\netcoreapp3.1\rockPaperScissors.dll
+C:\Users\Dell\GitHub\rockPaperScissors\rockPaperScissors\rockPaperScissors\obj\Debug\netcoreapp3.1\rockPaperScissors.pdb
+C:\Users\Dell\GitHub\rockPaperScissors\rockPaperScissors\rockPaperScissors\obj\Debug\netcoreapp3.1\rockPaperScissors.genruntimeconfig.cache
